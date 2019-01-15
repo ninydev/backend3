@@ -1,0 +1,16 @@
+{
+    "name": "ninydev/backend3",
+    "description": "IT Step Backend3 group",
+    "type": "lesson",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    },
+    "license": "BeerWare",
+    "authors": [
+        {
+            "name": "Oleksandr Nykytin",
+            "email": "nikitin_a@itstep.org"
+        }
+    ],
+    "minimum-stability": "dev"
+}
