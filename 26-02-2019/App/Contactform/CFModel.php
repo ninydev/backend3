@@ -1,5 +1,7 @@
 <?php
 namespace App\Contactform;
+use Kernel\Lib\Mailer;
+use Kernel\Request;
 
 /**
  * 
@@ -7,10 +9,10 @@ namespace App\Contactform;
 class CFModel
 {
 	
-	function __construct(){
+	public function send (){
+		$m = new Mailer();
+
 	}
-
-
 
 
 }

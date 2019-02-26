@@ -21,6 +21,9 @@ class CFController  extends \Kernel\Base\BaseController
 	}
 
 	public function send (){
+		$this->Model = new CFModel();
+		$this->Model->send();
+		
 		HeaderController::$data ['pageTitle'] = "Contact form send";
 		$data['pageTitle'] = "Contact Form Send";
 		$this->content =  self::render ('contactform_send.tpl.php', $data);

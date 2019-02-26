@@ -12,6 +12,14 @@ final class Config {
   // Имя сайта
   public static $appSiteName = " My Site ";
 
+  // НАстройки почты
+  public static $emailSmtp = "smtp.google.com";
+  public static $emailUser = "keeper@ninydev.com";
+  public static $emaiPswd = "";
+  
+
+
+
 
 
 //*------------------------------------------------------------

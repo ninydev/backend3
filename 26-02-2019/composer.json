@@ -3,6 +3,7 @@
     "description": "Simple Form",
     "type": "lesson",
     "require": {
+        "phpmailer/phpmailer": "dev-master"
     },
     "license": "beerWare",
     "authors": [
