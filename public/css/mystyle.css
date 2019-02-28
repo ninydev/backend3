@@ -9,7 +9,9 @@ article img {width: 100px;}
 
 #containerAbout, #containerPartners {background-color: #f8f8f8}
 
-#containerHeader {background-image: url('../img/fon.jpg'); background-repeat: no-repeat; background-position: top center;  height: 770px; overflow: hidden;     background-size: 100%;}
+#containerHeaderHome {background-image: url('../img/fon.jpg'); background-repeat: no-repeat; background-position: top center;  height: 770px; overflow: hidden;     background-size: 100%;}
+#containerHeader {background-image: url('../img/fon.jpg'); background-repeat: no-repeat; background-position: top center;  height: 100px; overflow: hidden;     background-size: 100%;}
+
 h1#siteLogo {margin-top: 25px;}
 h1#siteLogo a {font-family: 'Montserrat', sans-serif; font-weight: bold; font-size: 24pt; color: #fff;}
 h1#siteLogo a:hover {text-decoration: none;} 
