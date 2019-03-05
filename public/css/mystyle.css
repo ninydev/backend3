@@ -20,6 +20,10 @@ h1#siteLogo a:hover {text-decoration: none;}
 #menuMain li a {color: #fff; font-family: 'Montserrat', sans-serif; font-size: 14pt;}
 #menuMain li a:hover {color: #ccc; text-decoration: none;} 
 
+#menuMain ul ul {display: block; position:absolute; z-index:10; margin:0px; padding:0px; visibility:hidden;}
+#menuMain ul ul li { margin:5px; padding:5px;}
+#menuMain ul li:hover ul {visibility:visible;}
+
 
 #headerCaptions {margin-top: 255px;}
 #headerCaptions h2 {font-family: 'Montserrat', sans-serif; font-weight: bold; font-size: 48pt; color: #fff; text-transform: uppercase;}
