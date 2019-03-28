@@ -97,7 +97,7 @@ class Router{
 	static function addGroup ($url, $controller){
 		$url = explode('/', $url);
 		echo PP::echo($url);
-		$route = self::add($url[1], $controller);
+		$route = self::add('/' . $url[1], $controller);
 
 		return $route;
 	}

@@ -11,7 +11,7 @@ use \Kernel\Router;
 */
 
 Router::addGroup("/page/{action: index}/{page_id}/{page_autor}", "\App\Page\PageController");
-
+Router::addGroup("/pages/{page_id}/{page_autor}", "\App\Page\PageController");
 
 Router::add("/sitemap.html", "\App\Sitemap\SitemapController")
 			->name("sitemap");
