@@ -2,50 +2,471 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="656c6957-5f05-4e4c-9092-211ceddf6695" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/storage/pages/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/05-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../03/05-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/12-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../03/12-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/14-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../03/14-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/19-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../03/19-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/App/Sitemap/SitemapController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/App/Sitemap/SitemapController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/sitemap.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/resources/view/mydesign/sitemap.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/26-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../03/26-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/App/Sitemap/SitemapController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/App/Sitemap/SitemapController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/sitemap.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/resources/view/mydesign/sitemap.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/3.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/5.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03/28-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../03/28-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Basecar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/DumpTruck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/DumpTruck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/PCar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/PCar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Sedan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Sedan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Tractor.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Tractor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Transmission.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Transmission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Truck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Truck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Cars/Turnbuckle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Cars/Turnbuckle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Email/SendMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Email/SendMail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Service/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Service/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Basecar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Computer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Computer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/DumpTruck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/DumpTruck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Engine.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Engine.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/PCar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/PCar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Sedan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Sedan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Tractor.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Tractor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Transmission.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Transmission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Truck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Truck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Turnbuckle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Turnbuckle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Email/SendMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Email/SendMail.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Service/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Service/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Basecar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Computer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Computer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/DumpTruck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/DumpTruck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Engine.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Engine.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/PCar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/PCar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Sedan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Sedan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/TowTruck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/TowTruck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Tractor.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Tractor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Transmission.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Transmission.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Truck.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Truck.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Cars/Turnbuckle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Cars/Turnbuckle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Email/SendMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Email/SendMail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Service/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Service/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../12-02-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../15-01-2019/app/array_people.php" beforeDir="false" afterPath="$PROJECT_DIR$/../15-01-2019/app/array_people.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../15-01-2019/app/article.lib.php" beforeDir="false" afterPath="$PROJECT_DIR$/../15-01-2019/app/article.lib.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../15-01-2019/app/build.peopleSide.lib.php" beforeDir="false" afterPath="$PROJECT_DIR$/../15-01-2019/app/build.peopleSide.lib.php" afterDir="false" />
@@ -88,12 +509,63 @@
       <change beforePath="$PROJECT_DIR$/../17-01-2019/storage/files/pippa-zahod22.jpg (1).crdownload" beforeDir="false" afterPath="$PROJECT_DIR$/../17-01-2019/storage/files/pippa-zahod22.jpg (1).crdownload" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../17-01-2019/storage/files/pippa-zahod22.jpg (2).crdownload" beforeDir="false" afterPath="$PROJECT_DIR$/../17-01-2019/storage/files/pippa-zahod22.jpg (2).crdownload" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../17-01-2019/storage/files/pippa-zahod22.jpg.crdownload" beforeDir="false" afterPath="$PROJECT_DIR$/../17-01-2019/storage/files/pippa-zahod22.jpg.crdownload" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/Kernel/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/Kernel/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../19-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../22-01-2019/app/array_people.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../22-01-2019/app/article.lib.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../22-01-2019/app/build.peopleSide.lib.php" beforeDir="false" />
@@ -168,29 +640,167 @@
       <change beforePath="$PROJECT_DIR$/../25-12-2018/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../25-12-2018/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../25-12-2018/resources/view/mydesign/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../25-12-2018/resources/view/mydesign/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../25-12-2018/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../25-12-2018/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../26-02-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../26-02-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Config.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Layout/Responce.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Kernel/Request.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/public/text.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/storage/pages/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/storage/pages/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../28-02-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../28-02-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/public/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../29-01-2019/public/����� ��������� ��������.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../29-01-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../29-01-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Email/SendMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Email/SendMail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/public/text.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/public/text.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../31-01-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../31-01-2019/vendor/phpmailer/phpmailer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/../composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../public/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/css/mystyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../public/img/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../public/img/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/img/fon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../public/img/fon.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awsindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awsindex.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.alldomains.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.alldomains.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.allhosts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.allhosts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.allrobots.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.allrobots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.browserdetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.browserdetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.downloads.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.downloads.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.errors400.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.errors400.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.errors403.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.errors403.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.errors404.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.errors404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.keyphrases.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.keyphrases.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.keywords.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.keywords.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.lasthosts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.lasthosts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.lastrobots.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.lastrobots.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.osdetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.osdetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.refererpages.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.refererpages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.refererse.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.refererse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.session.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.session.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.unknownbrowser.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.unknownbrowser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.unknownip.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.unknownip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.unknownos.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.unknownos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urldetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urldetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlentry.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlentry.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlexit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlexit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awsindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awsindex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.alldomains.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.alldomains.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.allhosts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.allhosts.html" afterDir="false" />
@@ -214,6 +824,7 @@
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.urldetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.urldetail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.urlentry.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.urlentry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.urlexit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.urlexit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../storage/files/tmp/77095_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../storage/files/tmp/77095_0.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../storage/files/tmp/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../storage/files/tmp/Thumbs.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../storage/files/tmp/guest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../storage/files/tmp/guest.txt" afterDir="false" />
@@ -251,21 +862,48 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/18-04-2019/mysqlConnect.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/23-04-2019/tableWorkClass.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="352">
+              <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/18-04-2019/mysqlForm.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23-04-2019/view/save.tpl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="59" column="105" lean-forward="true" selection-start-line="59" selection-start-column="105" selection-end-line="59" selection-end-column="105" />
+            <state relative-caret-position="17">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23-04-2019/view/edit.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23-04-2019/view/all.tpl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/23-04-2019/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -280,27 +918,25 @@
       <list>
         <option value="$PROJECT_DIR$/18-04-2019/mysqlConnect.php" />
         <option value="$PROJECT_DIR$/18-04-2019/mysqlForm.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/mysqlConnect.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/view/all.tpl.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/view/del.tpl.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/test.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/view/edit.tpl.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/view/save.tpl.php" />
+        <option value="$PROJECT_DIR$/23-04-2019/tableWorkClass.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/04.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="475" />
-    <option name="y" value="51" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="411" />
+    <option name="y" value="81" />
     <option name="width" value="1072" />
     <option name="height" value="912" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -316,7 +952,13 @@
             <path>
               <item name="04" type="b2602c69:ProjectViewProjectNode" />
               <item name="04" type="462c0819:PsiDirectoryNode" />
-              <item name="18-04-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="23-04-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="04" type="b2602c69:ProjectViewProjectNode" />
+              <item name="04" type="462c0819:PsiDirectoryNode" />
+              <item name="23-04-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,6 +968,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/18-04-2019" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -359,25 +1002,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555601874998</updated>
-      <workItem from="1555601881229" duration="6789000" />
+      <workItem from="1555601881229" duration="7079000" />
+      <workItem from="1556033634908" duration="7269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6789000" />
+    <option name="totallyTimeSpent" value="14348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="475" y="51" width="1072" height="912" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14130434" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.089242056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -385,11 +1024,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3294621" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,15 +1042,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/18-04-2019/mysqlConnect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="510">
+          <caret line="36" column="56" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/18-04-2019/mysqlForm.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="59" column="105" lean-forward="true" selection-start-line="59" selection-start-column="105" selection-end-line="59" selection-end-column="105" />
+        <state relative-caret-position="403">
+          <caret line="59" column="105" selection-start-line="59" selection-start-column="105" selection-end-line="59" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/mysqlConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="49" selection-start-line="49" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/view/del.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/view/save.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/view/all.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/view/edit.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="57" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-04-2019/tableWorkClass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
         </state>
       </provider>
     </entry>
