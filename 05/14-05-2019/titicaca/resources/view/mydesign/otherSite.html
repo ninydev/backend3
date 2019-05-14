@@ -1,0 +1,380 @@
+
+<!DOCTYPE html><html lang="ru" class="no-js">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title> Titicaca </title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/mystyle.css" />
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+        <link href="https://www.jquery-az.com/boots/css/bootstrap-colorpicker/bootstrap-colorpicker.css" rel="stylesheet">       
+        <script src="https://www.jquery-az.com/boots/js/bootstrap-colorpicker/bootstrap-colorpicker.js"></script>
+    </head>
+    <body>
+        <div id="container">
+            <div class="header">
+                <div class="row align-items-center header">
+                    <div class="col-4 logo">
+                        <h1>LOGO</h1>
+                    </div>
+
+                    <div class="col-8 menubar">
+                        <nav class="navbar navbar-expand-lg navbar-info bg-light">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link activ" href="#">Главная <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Галерея
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#">Фото</a>
+                                <a class="dropdown-item" href="#">Видео</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#">Лучшее</a>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Команда</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Вход
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#ModalEntrance">Войти</a>
+                                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#ModalRegistration">Новый пользователь</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#ModalSettings">Настройка</a>
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- Modal Entrance-->
+                <div class="modal fade" id="ModalEntrance" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Вход</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        </div>
+                        <div class="modal-body">
+                            <form action="index.php" method="POST">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col">
+                                            <input id="login" type="text" class="form-control" name="login" value="" placeholder="Login"/>
+                                        </div>
+                                        <div class="col">
+                                            <input id="pswd" type="password" class="form-control" name="pawd" value="" placeholder="Password"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <input type="checkbox" name="checkbox" value="1"> Запомнить меня
+                                </div>
+                                <div class="form-group center">
+                                    <button type="reset" name="reset" class="btn btn-secondary" data-dismiss="modal">Отмена</button>
+                                    <button type="submit" name="entrance" class="btn btn-primary" value="ok">Войти</button>
+                                </div>
+                            </form>      
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <!-- End Modal Entrance--><!-- Modal Registration-->
+                <div class="modal fade" id="ModalRegistration" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Регистрация</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        </div>
+                        <div class="modal-body">
+                            <form action="index.php" method="POST">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col">
+                                            <input id="Fname" type="text" class="form-control" name="Fname" 
+                                            value=""                                placeholder="Имя"/>
+                                        </div>
+                                        <div class="col">
+                                            <input id="Lname" type="text" class="form-control" name="Lname" value="" placeholder="Фамилия"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col">
+                                            <input id="loginReg" type="text" class="form-control" name="loginReg" value="" placeholder="Login"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col">
+                                            <input id="pswdReg" type="password" class="form-control" name="pswdReg" value="" placeholder="Password"/>
+                                        </div>
+                                        <div class="col">
+                                            <input id="confpawdReg" type="password" class="form-control" name="confpawdReg" value="" placeholder="Confirm Password"/>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="bd">Дата рождения</label>
+                                    <div class="row">
+                                        <div class="col">
+                                            <select id="day" name="day" class="form-control">
+                                                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+                <option>9</option>
+                <option>10</option>
+                <option>11</option>
+                <option>12</option>
+                <option>13</option>
+                <option>14</option>
+                <option>15</option>
+                <option>16</option>
+                <option>17</option>
+                <option>18</option>
+                <option>19</option>
+                <option>20</option>
+                <option>21</option>
+                <option>22</option>
+                <option>23</option>
+                <option>24</option>
+                <option>25</option>
+                <option>26</option>
+                <option>27</option>
+                <option>28</option>
+                <option>29</option>
+                <option>30</option>
+                <option>31</option>
+                                            </select>
+                                        </div>
+                                        <div class="col">
+                                            <select id="month" name="month" class="form-control">
+                                                <option value="1"> Январь </option>
+                                                <option value="2"> Февраль </option>
+                                                <option value="3"> Март </option>
+                                                <option value="4"> Апрель </option>
+                                                <option value="5"> Май </option>
+                                                <option value="6"> Июнь </option>
+                                                <option value="7"> Июль </option>
+                                                <option value="8"> Август </option>
+                                                <option value="9"> Сентябрь </option>
+                                                <option value="10"> Октябрь </option>
+                                                <option value="11"> Ноябрь </option>
+                                                <option value="12"> Декабрь </option>
+                                            </select>
+                                        </div>
+                                        <div class="col">
+                                            <select id="year" name="year" class="form-control">
+                                            <option>1980</option>
+                <option>1981</option>
+                <option>1982</option>
+                <option>1983</option>
+                <option>1984</option>
+                <option>1985</option>
+                <option>1986</option>
+                <option>1987</option>
+                <option>1988</option>
+                <option>1989</option>
+                <option>1990</option>
+                <option>1991</option>
+                <option>1992</option>
+                <option>1993</option>
+                <option>1994</option>
+                <option>1995</option>
+                <option>1996</option>
+                <option>1997</option>
+                <option>1998</option>
+                <option>1999</option>
+                <option>2000</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    </div>
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col justify-content-end">
+                                            <button type="reset" name="reset" class="btn btn-secondary" data-dismiss="modal">Отмена</button>
+                                            <button type="submit" name="entrance" class="btn btn-primary" value="ok">Зарегистрироваться</button>
+                                        </div>
+                                    </div>                       
+                                </div>
+                            </form>      
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <!-- End Modal Registration--><!-- Modal Settings-->
+                <div class="modal fade" id="ModalSettings" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Настройки</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        </div>
+                        <div class="modal-body">
+                            <form action="index.php" method="POST">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col">
+                                            Цвет фона
+                                            <div class="example-content well">
+                                                <div class="example-content-widget">
+                                                    <div id="color-picker-component1" class="input-group colorpicker-component">
+                                                        <input name="bgColor" type="text" value="<br />
+                <b>Notice</b>:  Undefined variable: bgColor in <b>C:\localhost\titicaca\resources\view\mydesign\formSettings.inc.php</b> on line <b>20</b><br />
+                " class="form-control"/>
+                                                        <span class="input-group-addon"><i></i></span>
+                                                    </div>
+                                                    <script>
+                                                        $(function () {
+                                                            $('#color-picker-component1').colorpicker();
+                                                        });
+                                                    </script>
+                                                </div>
+                                            </div>                               
+                                        </div>
+                                        <div class="col">
+                                            Цвет текста
+                                            <div class="example-content well">
+                                                <div class="example-content-widget">
+                                                    <div id="color-picker-component" class="input-group colorpicker-component">
+                                                        <input name="txColor" type="text" value="<br />
+                <b>Notice</b>:  Undefined variable: txColor in <b>C:\localhost\titicaca\resources\view\mydesign\formSettings.inc.php</b> on line <b>36</b><br />
+                " class="form-control"/>
+                                                        <span class="input-group-addon"><i></i></span>
+                                                    </div>
+                                                    <script>
+                                                        $(function () {
+                                                            $('#color-picker-component').colorpicker();
+                                                        });
+                                                    </script>
+                                                </div>
+                                            </div>                               
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" checked type="radio" name="typeSetting" id="session" value="session">
+                                    <label class="form-check-label" for="inlineRadio1">Session</label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" name="typeSetting" id="coookies" value="coookies">
+                                    <label class="form-check-label" for="inlineRadio2">Cookies</label>
+                                </div>
+                                <div class="dropdown-divider"></div>
+                                <div class="form-group center">
+                                    <button type="reset" name="reset" class="btn btn-secondary" data-dismiss="modal">Отмена</button>
+                                    <button type="submit" name="settings" class="btn btn-primary" value="ok">Применить</button>
+                                </div>
+                            </form>      
+                        </div>
+                    </div>
+                </div>
+                </div>
+                <!-- End Modal Settings-->        <!--<form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
+                    </form>-->
+                </div>
+                        </nav>		
+                    </div>
+                </div>
+            </div>
+            <div class="panel">
+                <div class="row">
+                    <div class="col">
+                    </div>
+                </div>
+            </div>
+            <div class="content">
+                <div class="row">
+                    <aside class="col-3 menu">
+                        <a role="button" class="btn btn-light btn-sm btn-block" href="/titicaca/public/index.php?controller=HomepageController&action=index&page_id=1" title="/" >Home</a>
+                        <a role="button" class="btn btn-light btn-sm btn-block" href="/titicaca/public/index.php?controller=post&action=index&page_id=post" title="/" >News</a>
+                        <a role="button" class="btn btn-light btn-sm btn-block" href="/titicaca/public/index.php?controller=contactform&action=index&page_id=contactform" title="/" >Написать нам</a>
+                    </aside>
+                    <article class="col-9 siteArticle">
+                        <div class="media">
+                            <img class="align-self-start mr-3" src="image/409026392.webp" title="Show must go on!">
+                            <div class="media-body">
+                                <h5 class="mt-0"><a href="https://en.lyrsense.com/queen/the_show_must_go_on">Show must go on!</a></h5>
+                                    <p>Empty spaces - what are we living for? Abandoned places - I guess we know the score.. On and on! Does anybody know what we are looking for?</p>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <img class="align-self-start mr-3" src="image/430424012.webp" title="Scandal">
+                            <div class="media-body">
+                                <h5 class="mt-0"><a href="https://en.lyrsense.com/queen/scandal">Scandal</a></h5>
+                                    <p>Scandal - now you've left me all the world's gonna know Scandal, they're gonna turn our lives into a freak show, They'll see the heart-ache, they'll see our love break, They'll hear me pleading, I'll say for Gods sake, Over and over and over again</p>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <img class="align-self-start mr-3" src="image/409026392.webp" title="Show must go on!">
+                            <div class="media-body">
+                                <h5 class="mt-0"><a href="https://en.lyrsense.com/queen/the_show_must_go_on">Show must go on!</a></h5>
+                                    <p>Empty spaces - what are we living for? Abandoned places - I guess we know the score.. On and on! Does anybody know what we are looking for?</p>
+                            </div>
+                        </div>
+
+                        <div class="media">
+                            <img class="align-self-start mr-3" src="image/430424012.webp" title="Scandal">
+                            <div class="media-body">
+                                <h5 class="mt-0"><a href="https://en.lyrsense.com/queen/scandal">Scandal</a></h5>
+                                    <p>Scandal - now you've left me all the world's gonna know Scandal, they're gonna turn our lives into a freak show, They'll see the heart-ache, they'll see our love break, They'll hear me pleading, I'll say for Gods sake, Over and over and over again</p>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+                <footer>
+                    <div class="row">
+                        <div class="col-4">
+                            <button type="button" class="btn btn-primary btn-sm">
+                                Вы посетили сайт <span class="badge badge-light"><br />
+                                <b>Notice</b>:  Undefined variable: Count in <b>C:\localhost\titicaca\resources\view\mydesign\footer.tpl.php</b> on line <b>5</b><br />
+                                </span>
+                                <a href="index.php?clearVisit=1"><span class="badge badge-light text-danger">X</span></a>
+                            </button>
+                        </div>
+                        <div class="col-4">
+                            <ul id="icoSocial">
+                                <a href="http://www.facebook.com"><li id="icoFB"></li></a>  
+                                <a href="http://www.facebook.com"><li id="icoIN"></li></a>
+                                <a href="http://www.facebook.com"><li id="icoTW"></li></a>
+                            </ul>
+                        </div>
+                        <div class="col-4 align-item-right">
+                            © Gololobov Sergey IT STEP 2018
+                        </div>
+                    </div>
+                </footer>
+
+            <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+
+
+    </body>
+</html>

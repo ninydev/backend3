@@ -1,0 +1,58 @@
+body {
+    background: #f3f2f3;
+    color: #000000;     
+}
+#container {
+    background: #FFFFFF;
+    margin: 30px auto 30px auto;
+    width: 1100px;
+ 
+}
+.header{height: 100px;}
+.logo{text-align: center;}
+.panel{ height: 80px; background-image: url('../image/8baner_TITICACA.jpg')}
+.content{padding: 20px;}
+.media{ border-bottom: cornflowerblue solid 1px; margin: 0 0 10px 0;}
+.media a{text-decoration: none;}
+
+article footer{ clear:both;}
+
+#clear {
+    clear:both;
+}
+
+footer {
+    padding-top: 25px;
+    font-family: Tahoma;
+    background: #d6ebf0;
+    height: 180px;
+    width: 1100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#icoSocial{
+    list-style: none;
+}
+
+#icoSocial li{
+    display: inline-block; 
+    width: 17px;
+    height: 17px;
+    margin: 5px;
+    background-repeat: no-repeat;
+    background-image: url("../image/amazon_split.png");
+    line-height: 2px;
+
+}
+
+#icoSocial li#icoFB{
+    background-position: -36px -168px;
+}
+
+#icoSocial li#icoTW{
+    background-position: -57px -168px;
+}
+#icoSocial li#icoIN{
+    background-image: url("../image/inst.png");
+}
