@@ -5,4 +5,4 @@ $Route = \User\RouteUser::getInstance();
 
 $str =  $Route->action;
 
-$User->$str();
+$User->$str($Route->param);

@@ -9,13 +9,40 @@ class ControllerUser extends BaseController {
     private $error;
 
     public function isUserLogin(){
-        return false;
+        // $_SESSION['user_id'] = 11;
+        var_dump($_SESSION['user_id']);
+        // var_dump(session_status());
+
+        if (session_status() == PHP_SESSION_ACTIVE and isset ($_SESSION['user_id']) and $_SESSION['user_id'] != -1) {
+            return true;
+        }
+        else {
+            return false;
+        }
+
+
     }
 
     public function doStartUserSession(){
+        // session_start();
+        $_SESSION['user_id'] = 10;
+        // echo "DoStartSession";
     }
 
     public function doEndUserSession(){
+        unset($_SESSION['user_id']);
+        session_destroy();
+    }
+
+    public  function  loginInto (){
+        // Запрос в базу
+        $this->doStartUserSession();
+        // echo "Do Login";
+
+    }
+
+    public  function  login (){
+        $this->content = $this->render ("login-form.tpl.php");
     }
 
     public function getWiget(){
@@ -44,8 +71,10 @@ class ControllerUser extends BaseController {
     }
 
     public function create (){
-        // Логика 
-        $data = $this->Model->Create();
+        // Логика
+        $data = $_POST;
+        $data['token'] = md5(uniqid($data["email"], true));
+        $data = $this->Model->Create($data);
         $this->content = $this->Model->Create();
         $this->error = $data['errNum'] . $data['errText'];
     }
@@ -57,7 +86,9 @@ class ControllerUser extends BaseController {
      *  Одиночка
      */
     private function __construct() {
-        $this->Model = new ModelUser();
+        session_start();
+        if (!$this->isUserLogin())
+            $this->Model = new ModelUser();
     }
     private static $instance;
     public static function getInstance() {

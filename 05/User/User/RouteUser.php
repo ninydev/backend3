@@ -4,14 +4,21 @@ namespace User;
 class RouteUser {
 
     private $url;
-    public $action;
+    public $action; // Что делать
+    public $param; // что передать
 
     public function getRegisterLink(){
         return $this->url . "?doUserAction=register";
     }
 
+    public  function getLoginLink () {
+        return $this->url . "?doUserAction=login";
+    }
+
 
     private function __construct (){
+        //var_dump($_SERVER);
+        // mysite.com/user/verify/{token} --> C->checkEmail($token)
         $url = explode("?", $_SERVER['REQUEST_URI']);
         $this->url = $url[0];
         if (isset($_GET["doUserAction"])) {
@@ -22,6 +29,9 @@ class RouteUser {
         if (isset($_POST["doUserAction"])){
             if ($_POST["doUserAction"] == "registerCreate"){
                 $this->action = "create";
+            }
+            if ($_POST["doUserAction"] == "loginInto") {
+                $this->action = "loginInto";
             }
 
         }

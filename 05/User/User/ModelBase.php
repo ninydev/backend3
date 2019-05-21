@@ -15,6 +15,7 @@ class ModelBase
     public $table;             // текущая таблица
 
     public $addFilds;          // доступные поля для добавления
+    public $funFildsCreate;
     public $addFildsAlter;     // альтернативные названия полей для добавления
     public $editFilds;         // доступные к редактированию поля
     public $editFildsAlter;    // альтернативные названия полей к редактированию
@@ -143,7 +144,7 @@ class ModelBase
         return $data;
     }
 
-    public function Create(){
+    public function Create($data){
         $sql = "INSERT INTO " . $this->table . " ( ";
         for($i = 0; $i < sizeof($this->addFilds); $i++) {
             $arrFilds[] = "`".$this->addFilds[$i] ."`";
@@ -151,7 +152,17 @@ class ModelBase
         $sql.= implode(", " ,$arrFilds);
         $sql.= ") VALUES (";
         for($i = 0; $i < sizeof($this->addFilds); $i++) {
-            $arrValues[] = "'".$_POST[$this->addFilds[$i]]."'";
+            if (isset($this->funFildsCreate[$this->addFilds[$i]]['start'])) {
+                $strStart = $this->funFildsCreate[$this->addFilds[$i]]['start'];
+            } else {
+                $strStart = "";
+            }
+            if (isset($this->funFildsCreate[$this->addFilds[$i]]['end'])) {
+                $strEnd = $this->funFildsCreate[$this->addFilds[$i]]['end'];
+            } else {
+                $strEnd = "";
+            }
+            $arrValues[] = $strStart . "'".$data[$this->addFilds[$i]]."'" . $strEnd;
         }
         $sql.= implode(", " ,$arrValues);
         $sql.=')';
