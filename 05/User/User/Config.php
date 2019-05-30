@@ -22,7 +22,7 @@ final class Config {
       // Настройки базы
       public static $DBhost = "localhost";
       public static $DBport = 3306;
-      public static $DBname = "c1backend3";
+      public static $DBname = "c1user";
       public static $DBuser = "c1laravel";
       public static $DBpswd = "QweAsdZxc!23";
       //*------------------------------------------------------------

@@ -55,7 +55,16 @@ class ControllerUser extends BaseController {
     }
 
     public function getContent(){
-    return $this->content;
+        //$this->content =
+        $res = $this->Model->Get();
+
+
+        $tmpModel = new ModelPostAdress();
+        $res = $tmpModel->Get();
+
+        // $this->content = $tmpModel->Get();
+
+        return $this->content;
     }
 
     public function getError(){
@@ -87,7 +96,7 @@ class ControllerUser extends BaseController {
      */
     private function __construct() {
         session_start();
-        if (!$this->isUserLogin())
+        //if (!$this->isUserLogin())
             $this->Model = new ModelUser();
     }
     private static $instance;
