@@ -390,8 +390,12 @@
       <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../05-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../05-02-2019/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../05/30-05-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../05/30-05-2019/vendor/phpmailer/phpmailer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../05/User/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05/User/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../05/User/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/../05/User/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Page/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Page/PageModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kernel/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/Kernel/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Route/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/Route/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Basecar.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../07-02-2019/app/Cars/Computer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../07-02-2019/app/Cars/Computer.php" afterDir="false" />
@@ -568,35 +572,6 @@
       <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../21-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/../21-02-2019/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/array_people.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/article.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/build.peopleSide.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/files.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/menu.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/menuClass.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/templates.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/app/vardump.lib.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/database/data/addMenu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/database/data/menu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/cache/addMenu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/cache/menu.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/css/mystyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/fun.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/img/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/main.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/peoples.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/public/vars.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/resources/view/mydesign/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/storage/files/77095_0.jpg.crdownload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/storage/files/pippa-zahod22.jpg (1).crdownload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/storage/files/pippa-zahod22.jpg (2).crdownload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../22-01-2019/storage/files/pippa-zahod22.jpg.crdownload" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../24-01-2019.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../24-01-2019.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../24-01-2019/classPeople.php" beforeDir="false" afterPath="$PROJECT_DIR$/../24-01-2019/classPeople.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../24-01-2019/classWoman.php" beforeDir="false" afterPath="$PROJECT_DIR$/../24-01-2019/classWoman.php" afterDir="false" />
@@ -803,7 +778,6 @@
       <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urldetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urldetail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlentry.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlentry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlexit.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/2019-3/awstats.backend3.nikstep.com.ua.urlexit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../stats/awsindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awsindex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.alldomains.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.alldomains.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.allhosts.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.allhosts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.allrobots.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats/awstats.backend3.nikstep.com.ua.allrobots.html" afterDir="false" />
@@ -855,19 +829,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Route/web.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Page/PageModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="641">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="335">
+              <caret line="110" column="26" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="26" />
               <folding>
                 <element signature="e#1247#1775#0#PHP" />
               </folding>
@@ -878,49 +843,62 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/Page/PageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+            <state relative-caret-position="289">
+              <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kernel/app.boot.php">
+        <entry file="file://$PROJECT_DIR$/Kernel/Router.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+            <state relative-caret-position="253">
+              <caret line="230" column="11" selection-start-line="230" selection-start-column="11" selection-end-line="230" selection-end-column="11" />
+              <folding>
+                <element signature="e#1869#2053#0#PHP" />
+                <element signature="e#2224#2654#0#PHP" />
+                <element signature="e#2659#3235#0#PHP" />
+                <element signature="e#6783#7292#0#PHP" />
+                <element signature="e#7297#7743#0#PHP" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Layout/Responce.php">
+        <entry file="file://$PROJECT_DIR$/Route/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="37" column="40" lean-forward="true" selection-start-line="37" selection-start-column="40" selection-end-line="37" selection-end-column="40" />
+            <state relative-caret-position="731">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Kernel/Base/BaseModel.php">
+        <entry file="file://$PROJECT_DIR$/Kernel/Lib/DB_Driver.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="182" column="25" lean-forward="true" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Middleware/Stop.php">
+        <entry file="file://$PROJECT_DIR$/Kernel/Lib/MySQLi_DB.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="136">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>action</find>
+      <find>add</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
@@ -931,8 +909,9 @@
         <option value="$PROJECT_DIR$/Kernel/Lib/DB_Driver.php" />
         <option value="$PROJECT_DIR$/Kernel/Lib/MySQLi_DB.php" />
         <option value="$PROJECT_DIR$/App/Config.php" />
-        <option value="$PROJECT_DIR$/Route/web.php" />
         <option value="$PROJECT_DIR$/Kernel/Base/BaseModel.php" />
+        <option value="$PROJECT_DIR$/Kernel/Router.php" />
+        <option value="$PROJECT_DIR$/Route/web.php" />
         <option value="$PROJECT_DIR$/App/Page/PageModel.php" />
         <option value="$PROJECT_DIR$/App/Page/PageController.php" />
       </list>
@@ -956,7 +935,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="402" />
     <option name="y" value="96" />
     <option name="width" value="1244" />
@@ -1030,6 +1009,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Kernel/Lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1064,15 +1044,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559924672602</updated>
-      <workItem from="1559924674002" duration="2911000" />
+      <workItem from="1559924674002" duration="4374000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2911000" />
+    <option name="totallyTimeSpent" value="4374000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -1101,21 +1081,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Kernel/Router.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="306" column="24" selection-start-line="306" selection-start-column="24" selection-end-line="306" selection-end-column="24" />
-          <folding>
-            <element signature="e#1869#2053#0#PHP" />
-            <element signature="e#2224#2654#0#PHP" />
-            <element signature="e#2659#3235#0#PHP" />
-            <element signature="e#4092#6779#0#PHP" />
-            <element signature="e#6783#7292#0#PHP" />
-            <element signature="e#7297#7743#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Homepage/HomepageModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1137,20 +1102,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kernel/Lib/DB_Driver.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kernel/Lib/MySQLi_DB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1165,34 +1116,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Middleware/Stop.php">
+    <entry file="file://$PROJECT_DIR$/App/Layout/HeadController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Route/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Kernel/Base/BaseModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="182" column="25" lean-forward="true" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Page/PageModel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="641">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#1247#1775#0#PHP" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1203,13 +1130,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Layout/HeadController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Layout/Responce.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1217,10 +1137,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/App/Middleware/Stop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kernel/Lib/DB_Driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kernel/Lib/MySQLi_DB.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kernel/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="230" column="11" selection-start-line="230" selection-start-column="11" selection-end-line="230" selection-end-column="11" />
+          <folding>
+            <element signature="e#1869#2053#0#PHP" />
+            <element signature="e#2224#2654#0#PHP" />
+            <element signature="e#2659#3235#0#PHP" />
+            <element signature="e#6783#7292#0#PHP" />
+            <element signature="e#7297#7743#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Route/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kernel/Base/BaseModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Page/PageModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="110" column="26" selection-start-line="110" selection-start-column="13" selection-end-line="110" selection-end-column="26" />
+          <folding>
+            <element signature="e#1247#1775#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/Page/PageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="44" lean-forward="true" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        <state relative-caret-position="289">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>

@@ -227,8 +227,8 @@ class Router{
 				}
 			}
 		}
-		echo "<p>Разбор пути</p>";
-		echo PP::echo($arg);
+		// echo "<p>Разбор пути</p>";
+		// echo PP::echo($arg);
 		// Если у меня есть в маршруте посредники, создать каждый из них
 		if (is_array(self::$routes['/'.$url[1]]->middleware)) {
 			for ($i = 0; $i < sizeof(self::$routes['/'.$url[1]]->middleware); $i++){

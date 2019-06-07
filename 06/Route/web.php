@@ -43,7 +43,8 @@ Router::addForm("/contact.html", "\App\Contactform\CFController")
 
 
 
-Router::resource("/shop.html", "\App\Page\PageController")
+Router::add("/shop.html", "\App\Page\PageController", "getBySlug")
+            ->addArg("page_id", "shop.html")
 			->showInSiteMap()
 			->name("shop");
 
