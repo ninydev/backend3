@@ -1,0 +1,53 @@
+.g_menu { padding:0; font-size:0; margin:0; z-index:20}
+.g_menu li { list-style:none; display:inline-block; //display:inline; //zoom:1; padding:0; background:none; position:relative; vertical-align:top; float:left;}
+
+.g_menu a { /*Пукты родительского меню*/
+text-transform:inherit; 
+font:18px/25px Tahoma, Geneva, sans-serif; 
+color:#1d215a; 
+
+height:25px; /*Высота пунктов меню*/
+
+padding:0 20px 4px; 
+text-decoration:underline; 
+background:url(../pic/back_2.gif) 0 -100px repeat-x; 
+display:inline-block; 
+white-space:nowrap; 
+position:relative; 
+z-index:10; 
+
+
+
+}
+.g_menu a:hover,.g_menu a.cur,.g_menu a.selected {  
+color:#fff; 
+text-decoration:none; 
+background-position: 0 0;
+
+}
+.g_menu ul { position:absolute; border:1px solid #af5f12;
+
+top:25px; /*Высота пунктов меню*/
+
+left:0px; padding:0; display:none; z-index:15; margin:0}
+.g_menu ul li { background:none; padding:0; display:block;}
+.g_menu ul a { /*Пукты выпадающего меню*/
+color:#282055; 
+background:#fff url(pic/back_4.gif.html) 0 -100px repeat-x;
+padding:5px 10px 0px; 
+display:block; 
+font:14px/1.2em Tahoma, Geneva, sans-serif;
+text-decoration:none;
+border-bottom:1px solid #af5f12;
+
+
+}
+.g_menu ul a:hover { background-position: 0 0; color:#282055 }
+
+.g_menu ul ul { position:absolute; top:0; left:0;}
+.g_menu ul ul li a { }
+.g_menu ul ul li a:hover {background-position: 0 0;color:#282055 }
+.g_menu ul a.selected2 {background-position: 0 0;color:#282055 }
+
+.g_menu li.g_last {}
+.g_menu li.g_first {}

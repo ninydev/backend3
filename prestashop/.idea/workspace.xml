@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49ed3e8d-ee15-497a-8c1c-bbd16c2caa81" name="Default Changelist" comment="">
+      <change beforePath="R:/03/05-03-2019/App/Config.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/03/05-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/03/05-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/03/05-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/03/05-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/03/05-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/03/05-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/03/05-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/Route/web.php" beforeDir="false" afterPath="R:/03/05-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/composer.json" beforeDir="false" afterPath="R:/03/05-03-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/composer.lock" beforeDir="false" afterPath="R:/03/05-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/public/index.php" beforeDir="false" afterPath="R:/03/05-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/public/text.php" beforeDir="false" afterPath="R:/03/05-03-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="R:/03/05-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/03/05-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/03/05-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/storage/pages/3.php" beforeDir="false" afterPath="R:/03/05-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/03/05-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/03/05-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Config.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/03/12-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/03/12-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/03/12-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/03/12-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/03/12-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/03/12-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/03/12-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/Route/web.php" beforeDir="false" afterPath="R:/03/12-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/composer.json" beforeDir="false" afterPath="R:/03/12-03-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/composer.lock" beforeDir="false" afterPath="R:/03/12-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/public/index.php" beforeDir="false" afterPath="R:/03/12-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/public/text.php" beforeDir="false" afterPath="R:/03/12-03-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="R:/03/12-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/03/12-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/03/12-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/storage/pages/3.php" beforeDir="false" afterPath="R:/03/12-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/storage/pages/4.php" beforeDir="false" afterPath="R:/03/12-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/storage/pages/5.php" beforeDir="false" afterPath="R:/03/12-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/03/12-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/03/12-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Config.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/03/14-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/03/14-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/03/14-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/03/14-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/03/14-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/03/14-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/03/14-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/Route/web.php" beforeDir="false" afterPath="R:/03/14-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/composer.json" beforeDir="false" afterPath="R:/03/14-03-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/composer.lock" beforeDir="false" afterPath="R:/03/14-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="R:/03/14-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="R:/03/14-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/public/.htaccess" beforeDir="false" afterPath="R:/03/14-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/public/index.php" beforeDir="false" afterPath="R:/03/14-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/public/text.php" beforeDir="false" afterPath="R:/03/14-03-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="R:/03/14-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/03/14-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/03/14-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/storage/pages/3.php" beforeDir="false" afterPath="R:/03/14-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/storage/pages/4.php" beforeDir="false" afterPath="R:/03/14-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/storage/pages/5.php" beforeDir="false" afterPath="R:/03/14-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/03/14-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/03/14-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Config.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/03/19-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/03/19-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/03/19-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/03/19-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/03/19-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/03/19-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/03/19-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/Route/web.php" beforeDir="false" afterPath="R:/03/19-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/composer.json" beforeDir="false" afterPath="R:/03/19-03-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/composer.lock" beforeDir="false" afterPath="R:/03/19-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="R:/03/19-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="R:/03/19-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/public/.htaccess" beforeDir="false" afterPath="R:/03/19-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/public/index.php" beforeDir="false" afterPath="R:/03/19-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/public/text.php" beforeDir="false" afterPath="R:/03/19-03-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="R:/03/19-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/03/19-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/03/19-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/storage/pages/3.php" beforeDir="false" afterPath="R:/03/19-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/storage/pages/4.php" beforeDir="false" afterPath="R:/03/19-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/storage/pages/5.php" beforeDir="false" afterPath="R:/03/19-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/03/19-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/03/19-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Config.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/App/Sitemap/SitemapController.php" beforeDir="false" afterPath="R:/03/26-03-2019/App/Sitemap/SitemapController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/03/26-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/03/26-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/03/26-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/03/26-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/03/26-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/03/26-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/Route/web.php" beforeDir="false" afterPath="R:/03/26-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/composer.json" beforeDir="false" afterPath="R:/03/26-03-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/composer.lock" beforeDir="false" afterPath="R:/03/26-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="R:/03/26-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="R:/03/26-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/public/.htaccess" beforeDir="false" afterPath="R:/03/26-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/public/index.php" beforeDir="false" afterPath="R:/03/26-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/public/text.php" beforeDir="false" afterPath="R:/03/26-03-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/resources/view/mydesign/sitemap.tpl.php" beforeDir="false" afterPath="R:/03/26-03-2019/resources/view/mydesign/sitemap.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/03/26-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/03/26-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/storage/pages/3.php" beforeDir="false" afterPath="R:/03/26-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/storage/pages/4.php" beforeDir="false" afterPath="R:/03/26-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/storage/pages/5.php" beforeDir="false" afterPath="R:/03/26-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/03/26-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/03/26-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Config.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Middleware/Auth.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Middleware/Auth.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Middleware/Stop.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Middleware/Stop.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Navigation/NavigationController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Navigation/NavigationController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Navigation/NavigationModel.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Navigation/NavigationModel.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/App/Sitemap/SitemapController.php" beforeDir="false" afterPath="R:/03/28-03-2019/App/Sitemap/SitemapController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/03/28-03-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/03/28-03-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/03/28-03-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/03/28-03-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/03/28-03-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/03/28-03-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/Route/web.php" beforeDir="false" afterPath="R:/03/28-03-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/composer.json" beforeDir="false" afterPath="R:/03/28-03-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/composer.lock" beforeDir="false" afterPath="R:/03/28-03-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/mod_rewrite/.htaccess" beforeDir="false" afterPath="R:/03/28-03-2019/mod_rewrite/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/mod_rewrite/index.php" beforeDir="false" afterPath="R:/03/28-03-2019/mod_rewrite/index.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/public/.htaccess" beforeDir="false" afterPath="R:/03/28-03-2019/public/.htaccess" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/public/index.php" beforeDir="false" afterPath="R:/03/28-03-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/public/text.php" beforeDir="false" afterPath="R:/03/28-03-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/footermenu.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/footermenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/mainmenu.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/mainmenu.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/sidebar.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/sidebar.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/resources/view/mydesign/sitemap.tpl.php" beforeDir="false" afterPath="R:/03/28-03-2019/resources/view/mydesign/sitemap.tpl.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/03/28-03-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/03/28-03-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/storage/pages/3.php" beforeDir="false" afterPath="R:/03/28-03-2019/storage/pages/3.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/storage/pages/4.php" beforeDir="false" afterPath="R:/03/28-03-2019/storage/pages/4.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/storage/pages/5.php" beforeDir="false" afterPath="R:/03/28-03-2019/storage/pages/5.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/03/28-03-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/03/28-03-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Basecar.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/DumpTruck.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/DumpTruck.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/PCar.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/PCar.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Sedan.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Sedan.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Tractor.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Tractor.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Transmission.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Transmission.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Truck.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Truck.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Cars/Turnbuckle.php" beforeDir="false" afterPath="R:/05-02-2019/app/Cars/Turnbuckle.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Email/SendMail.php" beforeDir="false" afterPath="R:/05-02-2019/app/Email/SendMail.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Service/PP.php" beforeDir="false" afterPath="R:/05-02-2019/app/Service/PP.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="R:/05-02-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="R:/05-02-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/composer.json" beforeDir="false" afterPath="R:/05-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/05-02-2019/composer.lock" beforeDir="false" afterPath="R:/05-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/05-02-2019/public/index.php" beforeDir="false" afterPath="R:/05-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/public/text.php" beforeDir="false" afterPath="R:/05-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/05-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/05-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/05/30-05-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/05/30-05-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/05/User/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/05/User/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/06/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/06/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Basecar.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Computer.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Computer.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/DumpTruck.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/DumpTruck.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Engine.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Engine.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/PCar.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/PCar.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Sedan.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Sedan.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Tractor.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Tractor.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Transmission.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Transmission.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Truck.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Truck.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Cars/Turnbuckle.php" beforeDir="false" afterPath="R:/07-02-2019/app/Cars/Turnbuckle.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Email/SendMail.php" beforeDir="false" afterPath="R:/07-02-2019/app/Email/SendMail.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Service/PP.php" beforeDir="false" afterPath="R:/07-02-2019/app/Service/PP.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="R:/07-02-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="R:/07-02-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/composer.json" beforeDir="false" afterPath="R:/07-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/07-02-2019/composer.lock" beforeDir="false" afterPath="R:/07-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/07-02-2019/public/index.php" beforeDir="false" afterPath="R:/07-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/public/text.php" beforeDir="false" afterPath="R:/07-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/07-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/07-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Basecar.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Basecar.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Cabriolet.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Cabriolet.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Computer.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Computer.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/DumpTruck.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/DumpTruck.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Engine.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Engine.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/PCar.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/PCar.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Sedan.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Sedan.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/TowTruck.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/TowTruck.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Tractor.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Tractor.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Transmission.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Transmission.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Truck.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Truck.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Cars/Turnbuckle.php" beforeDir="false" afterPath="R:/12-02-2019/app/Cars/Turnbuckle.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Email/SendMail.php" beforeDir="false" afterPath="R:/12-02-2019/app/Email/SendMail.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Service/PP.php" beforeDir="false" afterPath="R:/12-02-2019/app/Service/PP.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="R:/12-02-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="R:/12-02-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/composer.json" beforeDir="false" afterPath="R:/12-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/12-02-2019/composer.lock" beforeDir="false" afterPath="R:/12-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/12-02-2019/public/index.php" beforeDir="false" afterPath="R:/12-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/public/text.php" beforeDir="false" afterPath="R:/12-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/12-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/12-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/15-01-2019/app/array_people.php" beforeDir="false" afterPath="R:/15-01-2019/app/array_people.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/app/article.lib.php" beforeDir="false" afterPath="R:/15-01-2019/app/article.lib.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/app/build.peopleSide.lib.php" beforeDir="false" afterPath="R:/15-01-2019/app/build.peopleSide.lib.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/app/mylesson.php" beforeDir="false" afterPath="R:/15-01-2019/app/mylesson.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/app/templates.lib.php" beforeDir="false" afterPath="R:/15-01-2019/app/templates.lib.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/app/vardump.lib.php" beforeDir="false" afterPath="R:/15-01-2019/app/vardump.lib.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/css/mystyle.css" beforeDir="false" afterPath="R:/15-01-2019/public/css/mystyle.css" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/fun.php" beforeDir="false" afterPath="R:/15-01-2019/public/fun.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/img/Thumbs.db" beforeDir="false" afterPath="R:/15-01-2019/public/img/Thumbs.db" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/index.php" beforeDir="false" afterPath="R:/15-01-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/main.php" beforeDir="false" afterPath="R:/15-01-2019/public/main.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/peoples.json" beforeDir="false" afterPath="R:/15-01-2019/public/peoples.json" afterDir="false" />
+      <change beforePath="R:/15-01-2019/public/vars.php" beforeDir="false" afterPath="R:/15-01-2019/public/vars.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/15-01-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/15-01-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/15-01-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/15-01-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/resources/view/mydesign/home.php" beforeDir="false" afterPath="R:/15-01-2019/resources/view/mydesign/home.php" afterDir="false" />
+      <change beforePath="R:/15-01-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/15-01-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/app/array_people.php" beforeDir="false" afterPath="R:/17-01-2019/app/array_people.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/app/article.lib.php" beforeDir="false" afterPath="R:/17-01-2019/app/article.lib.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/app/build.peopleSide.lib.php" beforeDir="false" afterPath="R:/17-01-2019/app/build.peopleSide.lib.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/app/files.lib.php" beforeDir="false" afterPath="R:/17-01-2019/app/files.lib.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/app/templates.lib.php" beforeDir="false" afterPath="R:/17-01-2019/app/templates.lib.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/app/vardump.lib.php" beforeDir="false" afterPath="R:/17-01-2019/app/vardump.lib.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/css/mystyle.css" beforeDir="false" afterPath="R:/17-01-2019/public/css/mystyle.css" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/fun.php" beforeDir="false" afterPath="R:/17-01-2019/public/fun.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/img/Thumbs.db" beforeDir="false" afterPath="R:/17-01-2019/public/img/Thumbs.db" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/index.php" beforeDir="false" afterPath="R:/17-01-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/main.php" beforeDir="false" afterPath="R:/17-01-2019/public/main.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/peoples.json" beforeDir="false" afterPath="R:/17-01-2019/public/peoples.json" afterDir="false" />
+      <change beforePath="R:/17-01-2019/public/vars.php" beforeDir="false" afterPath="R:/17-01-2019/public/vars.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/17-01-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/17-01-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/17-01-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/17-01-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/resources/view/mydesign/home.php" beforeDir="false" afterPath="R:/17-01-2019/resources/view/mydesign/home.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/17-01-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/17-01-2019/storage/files/77095_0.jpg.crdownload" beforeDir="false" afterPath="R:/17-01-2019/storage/files/77095_0.jpg.crdownload" afterDir="false" />
+      <change beforePath="R:/17-01-2019/storage/files/pippa-zahod22.jpg (1).crdownload" beforeDir="false" afterPath="R:/17-01-2019/storage/files/pippa-zahod22.jpg (1).crdownload" afterDir="false" />
+      <change beforePath="R:/17-01-2019/storage/files/pippa-zahod22.jpg (2).crdownload" beforeDir="false" afterPath="R:/17-01-2019/storage/files/pippa-zahod22.jpg (2).crdownload" afterDir="false" />
+      <change beforePath="R:/17-01-2019/storage/files/pippa-zahod22.jpg.crdownload" beforeDir="false" afterPath="R:/17-01-2019/storage/files/pippa-zahod22.jpg.crdownload" afterDir="false" />
+      <change beforePath="R:/19-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/19-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/19-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/19-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/19-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/19-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/19-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/Kernel/Responce.php" beforeDir="false" afterPath="R:/19-02-2019/Kernel/Responce.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/19-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/19-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/Route/web.php" beforeDir="false" afterPath="R:/19-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/composer.json" beforeDir="false" afterPath="R:/19-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/19-02-2019/public/index.php" beforeDir="false" afterPath="R:/19-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/public/text.php" beforeDir="false" afterPath="R:/19-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/19-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/19-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Config.php" beforeDir="false" afterPath="R:/21-02-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/21-02-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/21-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/21-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/21-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/21-02-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/21-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/21-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/21-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/21-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/Route/web.php" beforeDir="false" afterPath="R:/21-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/composer.json" beforeDir="false" afterPath="R:/21-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/21-02-2019/public/index.php" beforeDir="false" afterPath="R:/21-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/public/text.php" beforeDir="false" afterPath="R:/21-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/21-02-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/21-02-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/21-02-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/21-02-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/resources/view/mydesign/home.php" beforeDir="false" afterPath="R:/21-02-2019/resources/view/mydesign/home.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/21-02-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/21-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/21-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/24-01-2019.zip" beforeDir="false" afterPath="R:/24-01-2019.zip" afterDir="false" />
+      <change beforePath="R:/24-01-2019/classPeople.php" beforeDir="false" afterPath="R:/24-01-2019/classPeople.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/classWoman.php" beforeDir="false" afterPath="R:/24-01-2019/classWoman.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/info.php" beforeDir="false" afterPath="R:/24-01-2019/info.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/abstract.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/abstract.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/di.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/di.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/index_class.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/index_class.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/Country/USA/Odessa.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/Country/USA/Odessa.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/Country/Ukraine/Odessa.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/Country/Ukraine/Odessa.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/composer.json" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/composer.json" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/composer_autoload.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/composer_autoload.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/my_autoload.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/my_autoload.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/namespace.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/namespace.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/autoload.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/namespace/vendor/composer/installed.json" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/namespace/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/parnokopitoie.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/parnokopitoie.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/nameSpace/static.php" beforeDir="false" afterPath="R:/24-01-2019/nameSpace/static.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/ns_simple.php" beforeDir="false" afterPath="R:/24-01-2019/ns_simple.php" afterDir="false" />
+      <change beforePath="R:/24-01-2019/varVisability.php" beforeDir="false" afterPath="R:/24-01-2019/varVisability.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/app/array_people.php" beforeDir="false" afterPath="R:/25-12-2018/app/array_people.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/app/article.lib.php" beforeDir="false" afterPath="R:/25-12-2018/app/article.lib.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/app/build.peopleSide.lib.php" beforeDir="false" afterPath="R:/25-12-2018/app/build.peopleSide.lib.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/app/mylesson.php" beforeDir="false" afterPath="R:/25-12-2018/app/mylesson.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/app/templates.lib.php" beforeDir="false" afterPath="R:/25-12-2018/app/templates.lib.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/app/vardump.lib.php" beforeDir="false" afterPath="R:/25-12-2018/app/vardump.lib.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/css/mystyle.css" beforeDir="false" afterPath="R:/25-12-2018/public/css/mystyle.css" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/fun.php" beforeDir="false" afterPath="R:/25-12-2018/public/fun.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/img/Thumbs.db" beforeDir="false" afterPath="R:/25-12-2018/public/img/Thumbs.db" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/index.php" beforeDir="false" afterPath="R:/25-12-2018/public/index.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/main.php" beforeDir="false" afterPath="R:/25-12-2018/public/main.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/peoples.json" beforeDir="false" afterPath="R:/25-12-2018/public/peoples.json" afterDir="false" />
+      <change beforePath="R:/25-12-2018/public/vars.php" beforeDir="false" afterPath="R:/25-12-2018/public/vars.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/25-12-2018/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/25-12-2018/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/25-12-2018/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/25-12-2018/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/resources/view/mydesign/home.php" beforeDir="false" afterPath="R:/25-12-2018/resources/view/mydesign/home.php" afterDir="false" />
+      <change beforePath="R:/25-12-2018/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/25-12-2018/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Config.php" beforeDir="false" afterPath="R:/26-02-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/26-02-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/26-02-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/26-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/26-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/26-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/26-02-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/26-02-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/26-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/26-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/26-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/26-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/Route/web.php" beforeDir="false" afterPath="R:/26-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/composer.json" beforeDir="false" afterPath="R:/26-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/26-02-2019/composer.lock" beforeDir="false" afterPath="R:/26-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/26-02-2019/public/index.php" beforeDir="false" afterPath="R:/26-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/public/text.php" beforeDir="false" afterPath="R:/26-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/home.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/home.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/26-02-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/26-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/26-02-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/26-02-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Config.php" beforeDir="false" afterPath="R:/28-02-2019/App/Config.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Contactform/CFController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Contactform/CFController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Contactform/CFModel.php" beforeDir="false" afterPath="R:/28-02-2019/App/Contactform/CFModel.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Homepage/HomepageController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Homepage/HomepageController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Homepage/HomepageModel.php" beforeDir="false" afterPath="R:/28-02-2019/App/Homepage/HomepageModel.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Layout/FooterController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Layout/FooterController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Layout/HeadController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Layout/HeadController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Layout/HeaderController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Layout/HeaderController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Layout/MainNavigationController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Layout/MainNavigationController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Layout/Responce.php" beforeDir="false" afterPath="R:/28-02-2019/App/Layout/Responce.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Layout/SidebarController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Layout/SidebarController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Page/PageController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Page/PageController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Page/PageModel.php" beforeDir="false" afterPath="R:/28-02-2019/App/Page/PageModel.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Post/PostController.php" beforeDir="false" afterPath="R:/28-02-2019/App/Post/PostController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/App/Post/PostModel.php" beforeDir="false" afterPath="R:/28-02-2019/App/Post/PostModel.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Kernel/Base/BaseController.php" beforeDir="false" afterPath="R:/28-02-2019/Kernel/Base/BaseController.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Kernel/Lib/Mailer.php" beforeDir="false" afterPath="R:/28-02-2019/Kernel/Lib/Mailer.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Kernel/Lib/PP.php" beforeDir="false" afterPath="R:/28-02-2019/Kernel/Lib/PP.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Kernel/Request.php" beforeDir="false" afterPath="R:/28-02-2019/Kernel/Request.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Kernel/Router.php" beforeDir="false" afterPath="R:/28-02-2019/Kernel/Router.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Kernel/app.boot.php" beforeDir="false" afterPath="R:/28-02-2019/Kernel/app.boot.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/Route/web.php" beforeDir="false" afterPath="R:/28-02-2019/Route/web.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/composer.json" beforeDir="false" afterPath="R:/28-02-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/28-02-2019/composer.lock" beforeDir="false" afterPath="R:/28-02-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/28-02-2019/public/index.php" beforeDir="false" afterPath="R:/28-02-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/public/text.php" beforeDir="false" afterPath="R:/28-02-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/article.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/article.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/contactform.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/contactform.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/contactform_send.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/contactform_send.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/footer.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/footer.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/head.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/head.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/header.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/header.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/header_home.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/header_home.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/homepage.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/homepage.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/resources/view/mydesign/services.tpl.php" beforeDir="false" afterPath="R:/28-02-2019/resources/view/mydesign/services.tpl.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/storage/pages/1.php" beforeDir="false" afterPath="R:/28-02-2019/storage/pages/1.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/storage/pages/2.php" beforeDir="false" afterPath="R:/28-02-2019/storage/pages/2.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/28-02-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/28-02-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/28-02-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/29-01-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="R:/29-01-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/composer.json" beforeDir="false" afterPath="R:/29-01-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/29-01-2019/composer.lock" beforeDir="false" afterPath="R:/29-01-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/29-01-2019/public/index.php" beforeDir="false" afterPath="R:/29-01-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/public/����� ��������� ��������.txt" beforeDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/29-01-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/29-01-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/29-01-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Email/SendMail.php" beforeDir="false" afterPath="R:/31-01-2019/app/Email/SendMail.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Simpleform/Form.php" beforeDir="false" afterPath="R:/31-01-2019/app/Simpleform/Form.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Alives.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Alives.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Animals.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Animals.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Mammals/Mammals.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Mammals/Mammals.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Mammals/Omnivores.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Mammals/Omnivores.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Mammals/Omnivores/Elephants.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Mammals/Predators.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Mammals/Predators.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Mammals/Predators/Lions.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Reptiles/Reptiles.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Reptiles/Reptiles.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Reptiles/Snakes.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Reptiles/Snakes.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Animals/Reptiles/Snakes/Pythons.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/app/Zoo/Entities.php" beforeDir="false" afterPath="R:/31-01-2019/app/Zoo/Entities.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/composer.json" beforeDir="false" afterPath="R:/31-01-2019/composer.json" afterDir="false" />
+      <change beforePath="R:/31-01-2019/composer.lock" beforeDir="false" afterPath="R:/31-01-2019/composer.lock" afterDir="false" />
+      <change beforePath="R:/31-01-2019/public/index.php" beforeDir="false" afterPath="R:/31-01-2019/public/index.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/public/text.php" beforeDir="false" afterPath="R:/31-01-2019/public/text.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/autoload.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/composer/installed.json" beforeDir="false" afterPath="R:/31-01-2019/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/31-01-2019/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/31-01-2019/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/README.md" beforeDir="false" afterPath="R:/README.md" afterDir="false" />
+      <change beforePath="R:/composer.json" beforeDir="false" afterPath="R:/composer.json" afterDir="false" />
+      <change beforePath="R:/composer.lock" beforeDir="false" afterPath="R:/composer.lock" afterDir="false" />
+      <change beforePath="R:/public/css/mystyle.css" beforeDir="false" afterPath="R:/public/css/mystyle.css" afterDir="false" />
+      <change beforePath="R:/public/img/Thumbs.db" beforeDir="false" afterPath="R:/public/img/Thumbs.db" afterDir="false" />
+      <change beforePath="R:/public/img/fon.jpg" beforeDir="false" afterPath="R:/public/img/fon.jpg" afterDir="false" />
+      <change beforePath="R:/stats/.htaccess" beforeDir="false" afterPath="R:/stats/.htaccess" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awsindex.html" beforeDir="false" afterPath="R:/stats/2019-3/awsindex.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.alldomains.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.alldomains.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.allhosts.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.allhosts.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.allrobots.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.allrobots.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.browserdetail.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.browserdetail.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.downloads.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.downloads.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.errors400.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.errors400.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.errors403.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.errors403.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.errors404.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.errors404.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.keyphrases.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.keyphrases.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.keywords.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.keywords.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.lasthosts.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.lasthosts.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.lastrobots.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.lastrobots.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.osdetail.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.osdetail.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.refererpages.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.refererpages.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.refererse.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.refererse.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.session.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.session.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.unknownbrowser.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.unknownbrowser.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.unknownip.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.unknownip.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.unknownos.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.unknownos.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.urldetail.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.urldetail.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.urlentry.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.urlentry.html" afterDir="false" />
+      <change beforePath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.urlexit.html" beforeDir="false" afterPath="R:/stats/2019-3/awstats.backend3.nikstep.com.ua.urlexit.html" afterDir="false" />
+      <change beforePath="R:/stats/awsindex.html" beforeDir="false" afterPath="R:/stats/awsindex.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.alldomains.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.alldomains.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.allhosts.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.allhosts.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.allrobots.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.allrobots.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.browserdetail.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.browserdetail.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.downloads.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.downloads.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.errors400.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.errors400.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.errors403.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.errors403.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.errors404.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.errors404.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.keyphrases.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.keyphrases.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.keywords.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.keywords.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.lasthosts.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.lasthosts.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.lastrobots.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.lastrobots.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.osdetail.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.osdetail.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.refererpages.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.refererpages.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.refererse.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.refererse.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.session.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.session.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.unknownbrowser.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.unknownbrowser.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.unknownip.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.unknownip.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.unknownos.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.unknownos.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.urldetail.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.urldetail.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.urlentry.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.urlentry.html" afterDir="false" />
+      <change beforePath="R:/stats/awstats.backend3.nikstep.com.ua.urlexit.html" beforeDir="false" afterPath="R:/stats/awstats.backend3.nikstep.com.ua.urlexit.html" afterDir="false" />
+      <change beforePath="R:/stats/index.php" beforeDir="false" afterPath="R:/stats/index.php" afterDir="false" />
+      <change beforePath="R:/storage/files/tmp/77095_0.jpg" beforeDir="false" afterPath="R:/storage/files/tmp/77095_0.jpg" afterDir="false" />
+      <change beforePath="R:/storage/files/tmp/Thumbs.db" beforeDir="false" afterPath="R:/storage/files/tmp/Thumbs.db" afterDir="false" />
+      <change beforePath="R:/storage/files/tmp/guest.txt" beforeDir="false" afterPath="R:/storage/files/tmp/guest.txt" afterDir="false" />
+      <change beforePath="R:/storage/files/tmp/maxresdefault.jpg" beforeDir="false" afterPath="R:/storage/files/tmp/maxresdefault.jpg" afterDir="false" />
+      <change beforePath="R:/storage/files/tmp/pippa-zahod22.jpg" beforeDir="false" afterPath="R:/storage/files/tmp/pippa-zahod22.jpg" afterDir="false" />
+      <change beforePath="R:/vendor/autoload.php" beforeDir="false" afterPath="R:/vendor/autoload.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/ClassLoader.php" beforeDir="false" afterPath="R:/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/LICENSE" beforeDir="false" afterPath="R:/vendor/composer/LICENSE" afterDir="false" />
+      <change beforePath="R:/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="R:/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/autoload_namespaces.php" beforeDir="false" afterPath="R:/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="R:/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/autoload_real.php" beforeDir="false" afterPath="R:/vendor/composer/autoload_real.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/autoload_static.php" beforeDir="false" afterPath="R:/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="R:/vendor/composer/installed.json" beforeDir="false" afterPath="R:/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="R:/vendor/phpmailer/phpmailer" beforeDir="false" afterPath="R:/vendor/phpmailer/phpmailer" afterDir="false" />
+      <change beforePath="R:/wordpress/.idea/workspace.xml" beforeDir="false" afterPath="R:/wordpress/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/admin-ru_RU.mo" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/admin-ru_RU.mo" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/admin-ru_RU.po" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/admin-ru_RU.po" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-0ce75ad2f775d1cac9696967d484808c.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-0ce75ad2f775d1cac9696967d484808c.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-1a0cd6a7128913b15c1a10dd68951869.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-1a0cd6a7128913b15c1a10dd68951869.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-1bba9045bb07c89671c88a3f328548e8.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-1bba9045bb07c89671c88a3f328548e8.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-28b3c3d595952907e08d98287077426c.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-28b3c3d595952907e08d98287077426c.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-2c5d274ea625dd91556554ad82901529.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-2c5d274ea625dd91556554ad82901529.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-4a38fe1c0c45989e44682ba6109d9f46.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-4a38fe1c0c45989e44682ba6109d9f46.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-68f2cec7514bf8563c723a4d675fcfe6.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-68f2cec7514bf8563c723a4d675fcfe6.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-7f13c36c641b114bf18cd0bcc9ecc7e0.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-7f13c36c641b114bf18cd0bcc9ecc7e0.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-803bf1ce2131e13efc590c1bc47851fc.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-803bf1ce2131e13efc590c1bc47851fc.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-8860e58c20c6a2ab5876a0f07be43bd9.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-8860e58c20c6a2ab5876a0f07be43bd9.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-a25d1cc7bf7ca0b4e114f6bea64943f4.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-a25d1cc7bf7ca0b4e114f6bea64943f4.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-bf0f094965d3d4a95b47babcb35fc136.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-bf0f094965d3d4a95b47babcb35fc136.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU-f8f49d9fc4a9cf7d78ec99285417bd9c.json" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU-f8f49d9fc4a9cf7d78ec99285417bd9c.json" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU.mo" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU.mo" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/ru_RU.po" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/ru_RU.po" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/themes/twentynineteen-ru_RU.mo" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/themes/twentynineteen-ru_RU.mo" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/languages/themes/twentynineteen-ru_RU.po" beforeDir="false" afterPath="R:/wordpress/wp-content/languages/themes/twentynineteen-ru_RU.po" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/themes/nindev_themes/functions.php" beforeDir="false" afterPath="R:/wordpress/wp-content/themes/nindev_themes/functions.php" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/themes/nindev_themes/index.php" beforeDir="false" afterPath="R:/wordpress/wp-content/themes/nindev_themes/index.php" afterDir="false" />
+      <change beforePath="R:/wordpress/wp-content/themes/nindev_themes/style.css" beforeDir="false" afterPath="R:/wordpress/wp-content/themes/nindev_themes/style.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/itstepthemes/modules/ps_banner/ps_banner.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/itstepthemes/layouts/layout-content-only.tpl">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="R:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/themes/itstep_themes/config/theme.yml" />
+        <option value="$PROJECT_DIR$/themes/itstepthemes/config/theme.yml" />
+        <option value="$PROJECT_DIR$/themes/itstepthemes/layouts/layout-both-columns.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/templates/layouts/layout-both-columns.tpl" />
+        <option value="$PROJECT_DIR$/themes/classic/modules/ps_banner/ps_banner.tpl" />
+        <option value="$PROJECT_DIR$/themes/itstepthemes/modules/ps_banner/ps_banner.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/prestashop.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/deployment.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="402" />
+    <option name="y" value="96" />
+    <option name="width" value="1244" />
+    <option name="height" value="855" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="itstepthemes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="itstepthemes" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="itstepthemes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="prestashop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="prestashop" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="itstepthemes" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="ps_banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/itstepthemes/modules" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\prestashop\themes\itstepthemes\modules" />
+      <recent name="R:\prestashop\themes\itstepthemes" />
+      <recent name="R:\prestashop\themes\itstep_themes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\keeper\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49ed3e8d-ee15-497a-8c1c-bbd16c2caa81" name="Default Changelist" comment="" />
+      <created>1562512486966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562512486966</updated>
+      <workItem from="1562512489984" duration="6650000" />
+      <workItem from="1563550064555" duration="1137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7787000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/localization/CLDR/core/common/main/ru_RU.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_linklist/translations/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_linklist/lang/LinkBlockLang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockreassurance/translations/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockreassurance/lang/ReassuranceLang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/cldr/datas/main/ru-RU/ca-buddhist.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/cldr/datas/main/uk-UA/ca-buddhist.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/cldr/main--ru-RU--currencies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/cldr/datas/main/ru-RU/languages.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!block;n#languages#0;n#!!block;n#localeDisplayNames#0;n#!!block;n#ru-RU#0;n#!!block;n#main#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/translations/cldr/datas/supplemental/calendarData.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localization/ru.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/localization/ua.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/layouts/layout-left-column.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/config/theme.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/itstepthemes/config/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/itstepthemes/config/theme.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/layouts/layout-full-width.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/layouts/layout-both-columns.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="67" column="44" lean-forward="true" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_banner/ps_banner.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/smarty.config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#1071#1276#0#PHP" />
+            <element signature="e#1152#1239#0#PHP" />
+            <element signature="e#1240#1276#0#PHP" />
+            <element signature="n#smartyEscape#0;n#!!top" />
+            <element signature="n#smarty_modifier_htmlentitiesUTF8#0;n#!!top" />
+            <element signature="n#smartyRegisterFunction#0;n#!!top" />
+            <element signature="n#smartyHook#0;n#!!top" />
+            <element signature="n#smartyCleanHtml#0;n#!!top" />
+            <element signature="n#smartyClassname#0;n#!!top" />
+            <element signature="n#smartyClassnames#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/head.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/itstepthemes/layouts/layout-error.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/itstepthemes/layouts/layout-both-columns.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/page.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/itstepthemes/modules/ps_banner/ps_banner.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/itstepthemes/layouts/layout-content-only.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

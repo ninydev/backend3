@@ -1,0 +1,45 @@
+2019-07-21T15:56:46+00:00 CRITICAL syntax error, unexpected 'end_lvl' (T_STRING), expecting variable (T_VARIABLE) в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php на строке 10
+
+2019-07-21T15:59:03+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-walker.php:198
+Stack trace:
+#0 /var/www/clients/client1/web20/web/wordpress/wp-includes/nav-menu-template.php(580): Walker::walk(Array, 0, Object(stdClass))
+#1 /var/www/clients/client1/web20/web/wordpress/wp-includes/nav-menu-template.php(213): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#2 /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/header.php(32): wp_nav_menu(Object(stdClass))
+#3 /var/www/clients/client1/web20/web/wordpress/wp-includes/template.php(722): require_once('/var/www/client...')
+#4 /var/www/clients/client1/web20/web/wordpress/wp-includes/template.php(671): load_template('/var/www/client...', true)
+#5 /var/www/clients/client1/web20/web/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#6 /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/index.php(2): get_header()
+#7 /var/www/clients/client1/web20/web/w в /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-walker.php на строке 198
+
+2019-07-21T15:59:35+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-walker.php:198
+Stack trace:
+#0 /var/www/clients/client1/web20/web/wordpress/wp-includes/nav-menu-template.php(580): Walker::walk(Array, 0, Object(stdClass))
+#1 /var/www/clients/client1/web20/web/wordpress/wp-includes/nav-menu-template.php(213): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#2 /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/header.php(32): wp_nav_menu(Object(stdClass))
+#3 /var/www/clients/client1/web20/web/wordpress/wp-includes/template.php(722): require_once('/var/www/client...')
+#4 /var/www/clients/client1/web20/web/wordpress/wp-includes/template.php(671): load_template('/var/www/client...', true)
+#5 /var/www/clients/client1/web20/web/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#6 /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/index.php(2): get_header()
+#7 /var/www/clients/client1/web20/web/w в /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-walker.php на строке 198
+
+2019-07-21T15:59:42+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-walker.php:198
+Stack trace:
+#0 /var/www/clients/client1/web20/web/wordpress/wp-includes/nav-menu-template.php(580): Walker::walk(Array, 0, Object(stdClass))
+#1 /var/www/clients/client1/web20/web/wordpress/wp-includes/nav-menu-template.php(213): walk_nav_menu_tree(Array, 0, Object(stdClass))
+#2 /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/header.php(32): wp_nav_menu(Object(stdClass))
+#3 /var/www/clients/client1/web20/web/wordpress/wp-includes/template.php(722): require_once('/var/www/client...')
+#4 /var/www/clients/client1/web20/web/wordpress/wp-includes/template.php(671): load_template('/var/www/client...', true)
+#5 /var/www/clients/client1/web20/web/wordpress/wp-includes/general-template.php(41): locate_template(Array, true)
+#6 /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/index.php(2): get_header()
+#7 /var/www/clients/client1/web20/web/w в /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-walker.php на строке 198
+
+2019-07-21T16:04:39+00:00 CRITICAL syntax error, unexpected '}', expecting end of file в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php на строке 19
+
+2019-07-21T17:20:28+00:00 CRITICAL Cannot redeclare addPhoto() (previously declared in /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php:10) в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php на строке 62
+
+2019-07-21T17:21:06+00:00 CRITICAL Cannot redeclare addPhoto() (previously declared in /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php:10) в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php на строке 62
+
+2019-07-21T17:28:02+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/page-66.php на строке 32
+
+2019-07-21T17:41:58+00:00 CRITICAL syntax error, unexpected '{' в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/page-66.php на строке 32
+

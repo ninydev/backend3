@@ -1,0 +1,19 @@
+2019-07-20T14:06:38+00:00 CRITICAL Uncaught Error: Call to undefined function dump() in /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php:22
+Stack trace:
+#0 /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-hook.php(286): action_function_name_11(Object(WP_Query))
+#1 /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/clients/client1/web20/web/wordpress/wp-includes/plugin.php(531): WP_Hook->do_action(Array)
+#3 /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-query.php(1753): do_action_ref_array('pre_get_posts', Array)
+#4 /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-query.php(3404): WP_Query->get_posts()
+#5 /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp.php(622): WP_Query->query(Array)
+#6 /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp.php(739): WP->query_posts()
+#7 /var/www/clients/client1/web20/web/wordpress/wp-includes/functions.php(1105): WP-> в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/functions.php на строке 22
+
+2019-07-20T14:29:54+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/index.php:9
+Stack trace:
+#0 /var/www/clients/client1/web20/web/wordpress/wp-includes/template-loader.php(78): include()
+#1 /var/www/clients/client1/web20/web/wordpress/wp-blog-header.php(19): require_once('/var/www/client...')
+#2 /var/www/clients/client1/web20/web/wordpress/index.php(17): require('/var/www/client...')
+#3 {main}
+  thrown в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/keeper/index.php на строке 9
+

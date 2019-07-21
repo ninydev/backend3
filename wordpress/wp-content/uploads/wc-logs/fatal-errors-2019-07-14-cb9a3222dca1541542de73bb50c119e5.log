@@ -1,0 +1,26 @@
+2019-07-14T16:59:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-query.php на строке 3244
+
+2019-07-14T16:59:41+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/post.php на строке 707
+
+2019-07-14T17:00:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_title() in /var/www/clients/client1/web20/web/wordpress/wp-content/themes/nindev_themes/page-20.php:17
+Stack trace:
+#0 /var/www/clients/client1/web20/web/wordpress/wp-includes/template-loader.php(78): include()
+#1 /var/www/clients/client1/web20/web/wordpress/wp-blog-header.php(19): require_once('/var/www/client...')
+#2 /var/www/clients/client1/web20/web/wordpress/index.php(17): require('/var/www/client...')
+#3 {main}
+  thrown в /var/www/clients/client1/web20/web/wordpress/wp-content/themes/nindev_themes/page-20.php на строке 17
+
+2019-07-14T17:01:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-embed.php на строке 72
+
+2019-07-14T17:01:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/formatting.php на строке 878
+
+2019-07-14T17:01:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/formatting.php на строке 634
+
+2019-07-14T17:01:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-content/plugins/woocommerce/includes/wc-page-functions.php на строке 22
+
+2019-07-14T17:02:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-content/plugins/woocommerce/includes/wc-page-functions.php на строке 22
+
+2019-07-14T17:02:04+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/plugin.php на строке 191
+
+2019-07-14T17:03:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded в /var/www/clients/client1/web20/web/wordpress/wp-includes/class-wp-query.php на строке 3244
+

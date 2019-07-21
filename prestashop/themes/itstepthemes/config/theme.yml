@@ -1,0 +1,10 @@
+parent: classic
+name: itstepthemes
+display_name: My first child Theme
+version: 1.0.0
+author:
+  name: "IT Step"
+  email: "nikitin_a@itstep.org"
+  url: "http://www.itstep.org"
+assets:
+  use_parent_assets: true

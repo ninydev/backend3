@@ -1,0 +1,12 @@
+{
+    "name": "ninydev/smarty",
+    "authors": [
+        {
+            "name": "Oleksandr Nykytin",
+            "email": "nikitin_a@itstep.org"
+        }
+    ],
+    "require": {
+	 "smarty/smarty": "~3.1"
+    }
+}
